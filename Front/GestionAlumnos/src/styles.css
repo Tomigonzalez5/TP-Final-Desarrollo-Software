@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.container {
+    min-height: 100vh; /* Asegura que ocupe toda la altura de la pantalla */
+}
+
+.bg-pastel-blue {
+    background-color: #3ea3c8 !important;
+    color: #fff !important;
+}
+
+.bg-pastel-green {
+    background-color: #69c46c !important;
+    color: #333 !important;
+}
+
+.btn-pastel-blue {
+    background-color: #6eb6ea !important;
+    color: #fff !important;
+}
+
+.text-pastel-grey {
+    color: #777 !important;
+}
+
+.btn-pastel-yellow {
+    background-color: #d9d44d !important;
+    color: #fff !important;
+}
